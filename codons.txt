@@ -1,0 +1,13 @@
+UUU Phe
+UUC Phe
+UUA Leu
+UUG Leu
+CUU Leu
+CUC Leu
+CUA Leu
+CUG Leu
+AUU Ile
+AUC Ile
+AUA Ile
+AUG Met
+
